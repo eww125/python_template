@@ -3,8 +3,7 @@ t = time()
 
 import os
 home_dir =  os.path.expanduser('~')
-directory_path = home_dir + "/qgis_files/styles/"
-print directory_path
+
 
 
 
