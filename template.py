@@ -3,7 +3,7 @@ t = time()
 
 import os
 home_dir =  os.path.expanduser('~')
-
+cwd = os.getcwd()
 
 
 
